@@ -14,7 +14,7 @@ import Gallery from "./pages/Gallery";
 const pageTransition = {
   initial: { opacity: 0, y: 8 },
   animate: { opacity: 1, y: 0 },
-  exit: { opacity: 0, y: -6 }
+  exit: { opacity: 0, y: -6 },
 };
 
 export default function App() {
@@ -29,7 +29,12 @@ export default function App() {
             <Route
               path="/"
               element={
-                <motion.div initial="initial" animate="animate" exit="exit" variants={pageTransition}>
+                <motion.div
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  variants={pageTransition}
+                >
                   <Home />
                 </motion.div>
               }
@@ -37,7 +42,12 @@ export default function App() {
             <Route
               path="/about"
               element={
-                <motion.div initial="initial" animate="animate" exit="exit" variants={pageTransition}>
+                <motion.div
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  variants={pageTransition}
+                >
                   <About />
                 </motion.div>
               }
@@ -45,7 +55,12 @@ export default function App() {
             <Route
               path="/menu"
               element={
-                <motion.div initial="initial" animate="animate" exit="exit" variants={pageTransition}>
+                <motion.div
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  variants={pageTransition}
+                >
                   <Menu />
                 </motion.div>
               }
@@ -53,7 +68,12 @@ export default function App() {
             <Route
               path="/gallery"
               element={
-                <motion.div initial="initial" animate="animate" exit="exit" variants={pageTransition}>
+                <motion.div
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  variants={pageTransition}
+                >
                   <Gallery />
                 </motion.div>
               }
@@ -61,7 +81,12 @@ export default function App() {
             <Route
               path="/contact"
               element={
-                <motion.div initial="initial" animate="animate" exit="exit" variants={pageTransition}>
+                <motion.div
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  variants={pageTransition}
+                >
                   <Contact />
                 </motion.div>
               }
