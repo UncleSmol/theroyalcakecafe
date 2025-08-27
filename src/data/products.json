@@ -1,0 +1,150 @@
+{
+  "Cakes": [
+    {
+      "id": "cake-1",
+      "name": "Royal Vanilla Layer Cake",
+      "image": "https://images.unsplash.com/photo-1542831371-d531d36971e6?w=800&q=80",
+      "price": 35.0,
+      "description": "Classic vanilla sponge with silky buttercream and edible gold dust."
+    },
+    {
+      "id": "cake-2",
+      "name": "Chocolate Truffle Cake",
+      "image": "https://images.unsplash.com/photo-1603133872876-3c97e0b3a4d0?w=800&q=80",
+      "price": 42.0,
+      "description": "Rich chocolate layers with dark chocolate ganache."
+    },
+    {
+      "id": "cake-3",
+      "name": "Lemon Cream Cake",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&q=80",
+      "price": 30.0,
+      "description": "Zesty lemon curd and cream filling with light sponge."
+    },
+    {
+      "id": "cake-4",
+      "name": "Strawberry Royale",
+      "image": "https://images.unsplash.com/photo-1563805042-7684a3e5a0b7?w=800&q=80",
+      "price": 38.0,
+      "description": "Layered with fresh strawberries and vanilla cream."
+    },
+    {
+      "id": "cake-5",
+      "name": "Matcha Elegance Cake",
+      "image": "https://images.unsplash.com/photo-1611078483162-cc3deda55b45?w=800&q=80",
+      "price": 40.0,
+      "description": "Subtle matcha sponge balanced with white chocolate."
+    }
+  ],
+  "Cupcakes": [
+    {
+      "id": "cupcake-1",
+      "name": "Gold Dust Cupcake",
+      "image": "https://images.unsplash.com/photo-1545039907-3a72f5a3a9b3?w=800&q=80",
+      "price": 4.5,
+      "description": "Vanilla cupcake topped with gold dusted buttercream."
+    },
+    {
+      "id": "cupcake-2",
+      "name": "Red Velvet Mini",
+      "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?w=800&q=80",
+      "price": 4.75,
+      "description": "Classic red velvet with cream cheese frosting."
+    },
+    {
+      "id": "cupcake-3",
+      "name": "Salted Caramel Cupcake",
+      "image": "https://images.unsplash.com/photo-1527515637460-8f4a9b056d21?w=800&q=80",
+      "price": 5.0,
+      "description": "Caramel filled and salted caramel frosting."
+    },
+    {
+      "id": "cupcake-4",
+      "name": "Lemon Blossom Cupcake",
+      "image": "https://images.unsplash.com/photo-1532634896-26909d0d7b3e?w=800&q=80",
+      "price": 4.25,
+      "description": "Light and zesty lemon cupcake with sugar petals."
+    },
+    {
+      "id": "cupcake-5",
+      "name": "Chocolate Hazelnut Cup",
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&q=80",
+      "price": 5.5,
+      "description": "Decadent chocolate and hazelnut cream."
+    }
+  ],
+  "Pastries": [
+    {
+      "id": "pastry-1",
+      "name": "Almond Croissant",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+      "price": 3.5,
+      "description": "Buttery croissant filled with almond cream and sliced almonds."
+    },
+    {
+      "id": "pastry-2",
+      "name": "Fruit Danishes",
+      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+      "price": 3.0,
+      "description": "Flaky danish topped with seasonal fruits."
+    },
+    {
+      "id": "pastry-3",
+      "name": "Chocolate Eclair",
+      "image": "https://images.unsplash.com/photo-1599785209795-1c8b0a0e8aaf?w=800&q=80",
+      "price": 4.25,
+      "description": "Classic éclair with pastry cream and chocolate glaze."
+    },
+    {
+      "id": "pastry-4",
+      "name": "Cinnamon Roll Royale",
+      "image": "https://images.unsplash.com/photo-1544739313-8b1b7f6a9a4a?w=800&q=80",
+      "price": 3.75,
+      "description": "Soft cinnamon roll with cream cheese icing."
+    },
+    {
+      "id": "pastry-5",
+      "name": "Puff Fruit Tart",
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&q=80",
+      "price": 4.0,
+      "description": "Delicate puff pastry with vanilla cream and fresh fruit."
+    }
+  ],
+  "Specials": [
+    {
+      "id": "special-1",
+      "name": "Golden Anniversary Cake",
+      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+      "price": 120.0,
+      "description": "Large celebratory cake decorated with edible gold leaf."
+    },
+    {
+      "id": "special-2",
+      "name": "Custom Photo Cake",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+      "price": 95.0,
+      "description": "Personalized photo edible-print cake for special occasions."
+    },
+    {
+      "id": "special-3",
+      "name": "Wedding Mini Cakes Set",
+      "image": "https://images.unsplash.com/photo-1521305916504-4a1121188589?w=800&q=80",
+      "price": 200.0,
+      "description": "Box of mini wedding cakes for favors or dessert table."
+    },
+    {
+      "id": "special-4",
+      "name": "Box of 24 Assorted",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&q=80",
+      "price": 55.0,
+      "description": "Mixed selection of cupcakes and pastries for events."
+    },
+    {
+      "id": "special-5",
+      "name": "Seasonal Fruit Gateau",
+      "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?w=800&q=80",
+      "price": 65.0,
+      "description": "Seasonal fruits with light cream layers."
+    }
+  ]
+}
